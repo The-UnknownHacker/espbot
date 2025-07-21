@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D3.0mm,1,LED,
+J1,TerminalBlock_Altech_AK300-2_P5.00mm,1,Motor 1,
+J2,TerminalBlock_Altech_AK300-2_P5.00mm,1,Motor 2,
+J3,TerminalBlock_Altech_AK300-2_P5.00mm,1,Power,
+J4,TerminalBlock_Altech_AK300-2_P5.00mm,1,Relay,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,330ohms,
+U1,XIAO-ESP32C3-DIP,1,XIAO-ESP32-C3-DIP,
+U2,DIP-16_W7.62mm,1,L293D,
