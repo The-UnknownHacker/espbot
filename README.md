@@ -1,6 +1,6 @@
 # Battlebot
 
-**Author:** The-UnknownHacker  
+**Author:** Aarav J
 **GitHub:** [espbot](https://github.com/The-UnknownHacker/espbot)  
 **Started:** July 20, 2025  
 **Finished:** August 8, 2025  
